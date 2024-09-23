@@ -2,8 +2,6 @@
 
 ![java-leetcode-solutions](https://drive.google.com/uc?export=view&id=1BU5OnUKShcGoYQ5mW37RcJQCSLsdQkau)
 
-Solutions to different (all) Leetcode Problems in Java.
-
 ## About the Repository
 
 This repository is created to store all of my Leetcode problem solutions written in Java. As I continue to develop my problem-solving skills, I am committed to solving at least one Leetcode problem per day. This repository serves as a personal blog for each solution, documenting the process and approach.
